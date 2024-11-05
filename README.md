@@ -4,7 +4,7 @@ Welcome to my profile! I’m a passionate developer with expertise in programmin
 
 ### 🔭 What I’m Currently Working On
 - **RoUI Project**: An advanced GUI animation tool for Roblox developers (currently private).
-- **CHTD**: A unique Gacha Tower Defense Game for Roblox.
+- **CHTD**: Tower Defense Game for Roblox loosely inspired by Arknights
 - **Private projects** I can’t share yet 😔
 
 ### 🌐 Connect with Me
