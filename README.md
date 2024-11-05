@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 8BlT
+# 👋 Hi, I'm 8Bit
 
 Welcome to my profile! I’m a passionate developer with expertise and interests in programming, algorithms, and cybersecurity. Here’s a glimpse into my work and interests:
 
