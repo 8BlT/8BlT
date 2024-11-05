@@ -41,7 +41,7 @@ Welcome to my profile! I’m a passionate developer with expertise and interests
 
 ## ⚡ Fun Facts
 - **Favorite Language**: C++ because its the first language I mastered and learned.
-- **Interests**: Game development, cybersecurity, algorithms, statistics, video games, and working out
+- **Interests**: Game development, cybersecurity, working out, algorithms, statistics, and video games
 
 ---
 
