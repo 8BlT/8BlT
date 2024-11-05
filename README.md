@@ -26,7 +26,9 @@ Welcome to my profile! I’m a passionate developer with expertise in programmin
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-%23000000.svg?style=flat&logo=roblox&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-%23000000.svg?style=flat&logo=roblox&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ### ⚡ Fun Facts
 - **Favorite Language**: C++ because it’s the first language I mastered and learned.
