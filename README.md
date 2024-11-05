@@ -24,17 +24,25 @@ Welcome to my profile! I’m a passionate developer with expertise and interests
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-%23007ACC.svg?style=flat&logo=roblox&logoColor=white)
+
 
 
 
 ---
 
 ## ⚡ Fun Facts
-- **Favorite Language**: C++ because its the first language I mastered.
+- **Favorite Language**: C++ because its the first language I mastered and learned.
 - **Interests**: Game development, cybersecurity, algorithms, statistics, video games, and working out
 
 ---
