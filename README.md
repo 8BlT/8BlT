@@ -1,17 +1,6 @@
 👋 **Hi, I'm 8Bit**
 
-Welcome to my profile! I’m a passionate developer with expertise in programming, algorithms, and cybersecurity. Here’s a glimpse into my work and interests:
-
-### 🔭 What I’m Currently Working On
-- **RoUI Project**: An advanced GUI animation tool for Roblox developers (currently private).
-- **CHTD**: Tower Defense Game for Roblox loosely inspired by Arknights
-- **Private projects** I can’t share yet 😔
-
-### 🌐 Connect with Me
-- **Discord**: 8B_t
-- **Twitter**: ok8Bit
-- **Bluesky**: 8b1t.bsky.social
-- **Roblox**: ok8Bit
+Welcome to my profile! I’m a passionate developer with over half a decade of experience programming here are some of the tools I use!
 
 ### 🛠 Languages and Tools
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -28,9 +17,4 @@ Welcome to my profile! I’m a passionate developer with expertise in programmin
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-%23000000.svg?style=flat&logo=roblox&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
-
-### ⚡ Fun Facts
-- **Favorite Language**: C++ because it’s the first language I mastered and learned.
-- **Interests**: Game development, cybersecurity, working out, algorithms, statistics, and video games.
 
