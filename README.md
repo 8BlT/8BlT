@@ -1,6 +1,6 @@
 👋 **Hi, I'm 8Bit**
 
-Welcome to my profile! I’m a passionate developer with over half a decade of experience programming here are some of the tools I use!
+Welcome to my profile! I’m a passionate developer with a million billion years of experience programming here are some of the tools I use!
 
 ### 🛠 Languages and Tools
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
