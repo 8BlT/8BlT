@@ -1,6 +1,7 @@
 # Whats up
 
-Hi, I'm 8bit, I'm a 17 year old high school senior, in my free time I like to code and make games.
+Hi, I'm 8bit, I'm a 17 year self taught programmer in my free time I like to code and make games
+
 Stanford 29' 
 
 
