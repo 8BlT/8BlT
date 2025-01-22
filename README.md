@@ -1,6 +1,9 @@
-👋 **Hi, I'm 8Bit **
+# Whats up
 
-Welcome to my profile! I’m a passionate developer with over 6 years experience programming here are some of the tools and languages I use!
+Hi, I'm 8bit, I'm a 17 year old high school senior, in my free time I like to code and make games.
+Stanford 29' 
+
+
 
 ### 🛠 Languages and Tools
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
