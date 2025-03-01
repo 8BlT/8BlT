@@ -21,4 +21,6 @@ Stanford 29'
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-%23000000.svg?style=flat&logo=roblox&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
+![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=flat&logo=astro&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230087C6.svg?style=flat&logo=docker&logoColor=white)
