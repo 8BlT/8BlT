@@ -33,6 +33,6 @@ const eightBit = {
 
 ```
 
-<b>“ Soli Deo Gloria - Glory to God alone”</b>
+<b>“Soli Deo Gloria - Glory to God alone”</b>
 
 ---
